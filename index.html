@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>Catálogo Cake Toppers - Girando con estilo</title>
+    <link rel="stylesheet" href="style/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,600;14..32,700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header class="hero">
+        <div class="hero-content">
+            <h1><span class="plain-sparkle">🎂</span> JVMDESIGN Cake Toppers <span class="plain-sparkle">🥧</span></h1>
+            <p>Detalles que endulzan tu celebración | Haz clic para ampliar y desliza en el carrusel</p>
+        </div>
+    </header>
+
+    <main class="catalog-container">
+        <div class="catalog-grid" id="catalogGrid">
+            <!-- Las tarjetas se generarán con JavaScript, pero también se pueden escribir estáticamente -->
+        </div>
+    </main>
+
+    <!-- MODAL / LIGHTBOX con carrusel interno -->
+    <div id="imageModal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal" id="closeModalBtn">&times;</span>
+            <div class="carousel-container">
+                <button class="carousel-btn prev-btn" id="prevBtn">&#10094;</button>
+                <div class="carousel-image-wrapper">
+                    <img id="modalImage" src="" alt="Vista ampliada">
+                </div>
+                <button class="carousel-btn next-btn" id="nextBtn">&#10095;</button>
+            </div>
+            <div class="carousel-caption" id="modalCaption"></div>
+            <div class="carousel-counter" id="imageCounter"></div>
+        </div>
+    </div>
+ <script src="script/script.js"></script>
+</body>
+</html>
+<div class="floating-social-links">
+    <a href="https://www.facebook.com" target="_blank" class="social-link facebook" title="Facebook">
+        <i>f</i>
+    </a>
+    <a href="https://www.instagram.com" target="_blank" class="social-link instagram" title="Instagram">
+        <i>📷</i>
+    </a>
+    <a href="https://wa.link/a5wcqz" target="_blank" class="social-link whatsapp" title="WhatsApp">
+        <i>💬</i>
+    </a>
+    <a href="https://www.tiktok.com" target="_blank" class="social-link tiktok" title="TikTok">
+        <i>♪</i>
+    </a>
+</div>
+    <footer class="footer">
+        <p>© 2026 Cake Toppers Mágicos by | BUTHIDAE PRODUCTIONS | JVMDESIGN</p>
+    <nav class="footer-nav">
+        <ul>
+            <li><a href="index.html">Catálogo</a></li>
+            <li><a href="#about">Acerca de</a></li>
+            <li><a href="https://wa.link/a5wcqz" target="_blank">Contacto</a></li>
+            <li><a href="https://maps.app.goo.gl/cuFdpR3c4535pRsz6" target="_blank">Ubicación</a></li>
+        </ul>
+    </nav>
+    </footer>
+
+   
