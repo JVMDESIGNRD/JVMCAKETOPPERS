@@ -7,7 +7,7 @@ const toppersData = [
     {
         id: 1,
         nombre: "Topper Stitch 🐾",
-        img: "img/stitch.jpg", // imagen local de ejemplo (reemplaza con tu propia imagen)
+        img: "img/Stitch.jpg", // imagen local de ejemplo (reemplaza con tu propia imagen)
         descripcion: " Topper de Stitch con diseño adorable, ideal para fiestas infantiles y temáticas de Disney.",
    alt: "Stitch Cake Topper" },
     
