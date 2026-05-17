@@ -134,6 +134,14 @@ const toppersData = [
       "Topper de Heroes en pijama con diseño adorable, ideal para fiestas infantiles.",
     alt: "Heroes en pijama cake topper",
   },
+  {
+  id: 17, // Cambia el ID según corresponda en tu base de datos
+  nombre: "Topper Felices 103 🦋",
+  img: "img/103.png", // Reemplaza con la ruta real de tu imagen
+  descripcion:
+    "Topper personalizado, decorado con detalles de mariposas y flores moradas. Elegante y perfecto para celebraciones de hitos e historias de vida memorables.",
+  alt: "Golden 103rd Birthday Cake Topper with Butterflies"
+}
 ];
 
 // Variables globales para el carrusel modal
