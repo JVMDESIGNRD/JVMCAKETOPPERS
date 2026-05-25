@@ -141,7 +141,16 @@ const toppersData = [
   descripcion:
     "Topper personalizado, decorado con detalles de mariposas y flores moradas. Elegante y perfecto para celebraciones de hitos e historias de vida memorables.",
   alt: "Golden 103rd Birthday Cake Topper with Butterflies"
-}
+},
+  {
+    id: 17,
+    nombre: "la granja de zenon topper 🐷",
+    img: "img/granja.jpeg", // imagen local de ejemplo (reemplaza con tu propia imagen)
+    descripcion:
+      "Topper de la granja de zenon con diseño divertido, ideal para fiestas infantiles.",
+    alt: "La granja de zenon cake topper",
+  },
+  
 ];
 
 // Variables globales para el carrusel modal
