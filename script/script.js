@@ -150,6 +150,22 @@ const toppersData = [
       "Topper de la granja de zenon con diseño divertido, ideal para fiestas infantiles.",
     alt: "La granja de zenon cake topper",
   },
+  {
+    id: 18,
+    nombre: "Topper fondo del mar 🐠",
+    img: "img/mar.png", // imagen local de ejemplo (reemplaza con tu propia imagen)
+    descripcion:
+      "Topper de fondo del mar con diseño mágico, ideal para fiestas temáticas.",
+    alt: "Fondo del mar cake topper",
+  },
+  {
+    id: 19,
+    nombre: "Topper ingeniero 👷‍♂️🔧",
+    img: "img/ingeniero.png", // imagen local de ejemplo (reemplaza con tu propia imagen)
+    descripcion:
+      "Topper de ingeniero con diseño mágico, para los amantes de la ingeniería",
+    alt: "Ingeniero cake topper",
+  },
   
 ];
 
