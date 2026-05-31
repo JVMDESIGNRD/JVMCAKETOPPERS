@@ -143,7 +143,7 @@ const toppersData = [
   alt: "Golden 103rd Birthday Cake Topper with Butterflies"
 },
   {
-    id: 17,
+    id: 18,
     nombre: "la granja de zenon topper 🐷",
     img: "img/granja.jpeg", // imagen local de ejemplo (reemplaza con tu propia imagen)
     descripcion:
@@ -151,7 +151,7 @@ const toppersData = [
     alt: "La granja de zenon cake topper",
   },
   {
-    id: 18,
+    id: 19,
     nombre: "Topper fondo del mar 🐠",
     img: "img/mar.png", // imagen local de ejemplo (reemplaza con tu propia imagen)
     descripcion:
@@ -159,13 +159,21 @@ const toppersData = [
     alt: "Fondo del mar cake topper",
   },
   {
-    id: 19,
+    id: 20,
     nombre: "Topper ingeniero 👷‍♂️🔧",
     img: "img/ingeniero.png", // imagen local de ejemplo (reemplaza con tu propia imagen)
     descripcion:
       "Topper de ingeniero con diseño mágico, para los amantes de la ingeniería",
     alt: "Ingeniero cake topper",
   },
+   {
+    id: 21,
+    nombre: "Topper garfield 🐱",
+    img: "img/garfield.jpeg", // imagen local de ejemplo (reemplaza con tu propia imagen)
+    descripcion:
+      "Topper de garfield con diseño divertido, ideal para fiestas infantiles.",
+    alt: "Garfield cake topper",
+  }
   
 ];
 
