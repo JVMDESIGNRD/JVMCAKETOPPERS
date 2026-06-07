@@ -173,7 +173,15 @@ const toppersData = [
     descripcion:
       "Topper de garfield con diseño divertido, ideal para fiestas infantiles.",
     alt: "Garfield cake topper",
-  }
+  }, 
+  {
+    id: 21,
+    nombre: "Topper niño en el mundo de bebefinn 👶🦈",
+    img: "img/ander.jpg", // imagen local de ejemplo (reemplaza con tu propia imagen)
+    descripcion:
+      "Topper de niño en el mundo bebefinn con diseño adorable.",
+    alt: "Niño en el mundo bebefinn cake topper",
+  },  
   
 ];
 
