@@ -72,7 +72,7 @@ const toppersData = [
   {
     id: 9,
     nombre:
-      "🌸 A los amantes de las flores, también le personalizamos su topper con sus flores favoritas🌸",
+      "🌸 También le personalizamos su topper con sus flores favoritas🌸",
     img: "img/wendotopper.jpeg", // topper similar
     descripcion:
       "topper para los amantes a las flores con diseño brillante y mágico, ideal para fiestas temáticas.",
